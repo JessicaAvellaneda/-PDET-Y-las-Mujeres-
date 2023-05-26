@@ -48,15 +48,9 @@ En general, los resultados indican que se han logrado avances significativos en 
   <title>Subir imagen en HTML</title>
 </head>
 <body>
-  <img src="Mapas por Subregiones/Mapa_IUV.png" alt="Mapa IUV">
+  <img src="MCPP_Final/Mapas por Subregiones/Mapa_IUV.png" alt="Mapa IUV">
 </body>
 </html>
-
-
-
-
-
-
 
 
 
